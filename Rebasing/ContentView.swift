@@ -14,7 +14,11 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, world!")
+<<<<<<< HEAD
             Text("Content view -11")
+=======
+            Text("Content view 22")
+>>>>>>> 635232b (Feature-22 added)
         }
         .padding()
     }
